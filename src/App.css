@@ -1,1 +1,9 @@
-
+/* .background-img-parent {
+    overflow: hidden;
+} */
+.background-img {
+    background-image: url("./img/tools.jpg");
+    /* width: 100vw;
+    object-fit: cover;
+    object-position: 100% 10%; */
+}
